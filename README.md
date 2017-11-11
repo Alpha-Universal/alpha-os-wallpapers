@@ -1,7 +1,7 @@
-#Alpha OS Wallpapers
+# Alpha OS Wallpapers
 Default wallpapers for Alpha OS
 
-##Wallpaper guidelines
+## Wallpaper guidelines
 
 We're looking for wallpapers with bold color, engaging scenery or elements, and strong composition.  Photographs are strongly prefered, but exceptions can be made for superior digital media.  CC0 is an absolute must for all wallpapers.  Submissions with any other license will be rejected out of hand.
 
@@ -16,7 +16,7 @@ Further guidelines are:
  * An absolute minimum of compression artifacts, noise, and other visual distortions.
  * 1920x1080 file dimensions at the least.
 
-##To submit a wallpaper:
+## To submit a wallpaper:
 
  * Make sure that your submission is CC0 and from the original artist.
  * Fork the project and add your submission to the submissions folder.
